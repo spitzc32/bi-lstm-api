@@ -1,2 +1,2 @@
 # bi-lstm-api
-Deployed app for thesis 2
+Deployed app on Huggingface for thesis 2 model, entitiled BiLSTM-SPAN-CRF
